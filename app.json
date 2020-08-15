@@ -1,0 +1,16 @@
+{
+  "name": "FolderClone",
+  "description": "FolderClone - A project that allows you copy large folders to Shared Drives.",
+  "repository": "https://github.com/advik-afk/FolderClone-Telegram-Bot",
+  "keywords": ["folderclone"],
+  "success_url": "https://telegram.dog/zero_clone_bot",
+  "website": "https://github.com/advik-afk/FolderClone-Telegram-Bot", 
+  "addons": [],
+  "buildpacks": [],
+  "formation": {
+    "worker": {
+      "quantity": 1,
+      "size": "free"
+    }
+  }  
+}
