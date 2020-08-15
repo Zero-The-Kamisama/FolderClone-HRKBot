@@ -1,10 +1,10 @@
 {
-  "name": "FolderClone",
+  "name": "FolderClone-HRKBot",
   "description": "FolderClone - A project that allows you copy large folders to Shared Drives.",
-  "repository": "https://github.com/advik-afk/FolderClone-Telegram-Bot",
+  "repository": "https://github.com/Zero-The-Kamisama/FolderClone-HRKBot",
   "keywords": ["folderclone"],
   "success_url": "https://telegram.dog/zero_clone_bot",
-  "website": "https://github.com/advik-afk/FolderClone-Telegram-Bot", 
+  "website": "https://github.com/Zero-The-Kamisama/FolderClone-HRKBot", 
   "addons": [],
   "buildpacks": [],
   "formation": {
