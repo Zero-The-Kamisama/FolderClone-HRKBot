@@ -12,7 +12,8 @@ git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git
 3. Follow this [repository](https://github.com/xyou365/AutoRclone) to generate service accounts.
 4. Put all your service accounts (JSON Files) in `accounts` folder.
 5. Edit the values in `config.py`.
-6. Now open `app.json` file and change it as per the instructions in `line 4` and `line 7` and `line 35` in `README.md`.
+6. Now open `app.json` file and change `line 4` `line 6` and `line 7` as per the instructions.
+7. Open `README.md` file and change `line 26` as per the instructions.
 ```
 YOUR_UERNAME - Replace this with your github username.
 ```
@@ -55,3 +56,4 @@ Example : `/folderclone FSAF3213FD3S2341 FSAF3213FD3S2342 25 0 FSAF3DE45D3S2356`
 ## Thanks to :heart:
 
 - [Loli Killer](https://github.com/Loli-Killer/TgFolderClone)
+- [sawankumar](https://github.com/sawankumar)
